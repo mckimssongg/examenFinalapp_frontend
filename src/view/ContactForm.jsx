@@ -114,6 +114,8 @@ const styles = {
     height: '100px'
   },
   button: {
+    margin: '0 auto',
+    width: '105%',
     padding: '10px 15px',
     fontSize: '14px',
     borderRadius: '5px',
